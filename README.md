@@ -3,10 +3,12 @@ Market Price Handler Exercise
 
 # Requirements
 Table below shows dependencies needed to run fx-feed
-| Name              | Version   | 
-| --------          | --------  | 
-| Java              | 17+       |
-| Maven             | 3.8+      |
+
+| Name        | Version |
+|-------------| --------|
+| Java        | 17+     |
+| Maven       | 3.8+    |
+
 
 # See how it runs
 
